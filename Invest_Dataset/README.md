@@ -23,7 +23,7 @@ After analyzing the data, create a report that shares the findings found to be m
 Use the Project Rubric to review and improve the project. 
 
 ## Project Details
-
+![Database Diagram](db_diagram.png)
 The project involves conducting data analysis; data gathering, data cleaning, data visualization as well as sharing the findings. I'll start by assessing the dataset, and brainstorming appropriate questions could be answered using it. Then I'll use pandas and NumPy to answer the questions and create a report sharing the answers. 
 
 ## What I need to install
